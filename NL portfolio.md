@@ -1,6 +1,6 @@
 ## **Introduction**
 
-> ### [VR App](./bewijsmateriaal/repos/VR%20App%20Repo.url)
+> ### [VR App](https://drive.google.com/drive/folders/164QfFWPwf1oc0QH83KEfMe-JrwoR2_IY?usp=share_link)
 
  <div style="padding-left:20px;">
 
@@ -9,7 +9,7 @@ The project was introducted to us by our coach ([Bob van den Berge](https://www.
 - [Demo](./bewijsmateriaal/demos/VRapp/)
 - [Playthrough](https://www.youtube.com/watch?v=ysRaR0iKVWA&feature=youtu.be)
 - [Release Trailer](https://www.youtube.com/watch?v=kcD5QhzojCY)
-- [Repo](./bewijsmateriaal/repos/VR%20App%20Repo.url)
+- [Repo](https://drive.google.com/drive/folders/164QfFWPwf1oc0QH83KEfMe-JrwoR2_IY?usp=share_link)
 - [Executable APK](https://bitlab.bit-academy.nl/-/ide/project/221b9169-0a37-11ec-a943-4213e7ee7fac/13d2decc-0a38-11ec-a943-4213e7ee7fac/Eindproject-Jaar-866b130f-a3ee6b0f/edit/main/-/DEMO_WEDNESDAY_22_06_2022_W_Rain_and_new_ed_and_score_system.apk)
 
 > ### [Dashboard App](<./bewijsmateriaal/repos/DashBoardApp (In-House)/HLI-Dashboard-master>)
@@ -42,7 +42,7 @@ The project was more of a feature expansion, [suggested by myself](./bewijsmater
 
 ## **Inleiding**
 
-> ### [VR App](./bewijsmateriaal/repos/VR%20App%20Repo.url)
+> ### [VR App](https://drive.google.com/drive/folders/164QfFWPwf1oc0QH83KEfMe-JrwoR2_IY?usp=share_link)
 
 <div style="padding-left:20px;">
 
@@ -51,7 +51,7 @@ Het project werd aan ons voorgesteld door onze coach ([Bob van den Berge](https:
 - [Demo](./bewijsmateriaal/demos/VRapp/)
 - [Doorloop](https://www.youtube.com/watch?v=ysRaR0iKVWA&feature=youtu.be)
 - [Uitgave Trailer](https://www.youtube.com/watch?v=kcD5QhzojCY)
-- [Repo](./bewijsmateriaal/repos/VR%20App%20Repo.url)
+- [Repo](https://drive.google.com/drive/folders/164QfFWPwf1oc0QH83KEfMe-JrwoR2_IY?usp=share_link)
 - [Uitvoerbaar APK](https://bitlab.bit-academy.nl/-/ide/project/221b9169-0a37-11ec-a943-4213e7ee7fac/13d2decc-0a38-11ec-a943-4213e7ee7fac/Eindproject-Jaar-866b130f-a3ee6b0f/edit/main/-/DEMO_WEDNESDAY_22_06_2022_W_Rain_and_new_ed_and_score_system.apk)
 
 > ### [Dashboard App](<./bewijsmateriaal/repos/DashBoardApp (In-House)/HLI-Dashboard-master>)
@@ -84,7 +84,7 @@ Het project was meer een uitbreiding van functies, [door mij voorgesteld](./bewi
 
 ## **Ontwerp**
 
-> ### [VR Applicatie](./bewijsmateriaal/repos/VR%20App%20Repo.url)
+> ### [VR Applicatie](https://drive.google.com/drive/folders/164QfFWPwf1oc0QH83KEfMe-JrwoR2_IY?usp=share_link)
 
  <div style="padding-left:20px;">
 
@@ -100,7 +100,7 @@ Een van de belangrijkste stappen in dit project was het ontwerp ervan, aangezien
 
 </div>
 
-> ### [VR Applicatie](./bewijsmateriaal/repos/VR%20App%20Repo.url)
+> ### [VR Applicatie](https://drive.google.com/drive/folders/164QfFWPwf1oc0QH83KEfMe-JrwoR2_IY?usp=share_link)
 
  <div style="padding-left:20px;">
 
@@ -115,7 +115,7 @@ Direct na onze [Kickoff bijeenkomst](./bewijsmateriaal/meetingProves/DashboardAp
 Een van de belangrijkste stappen in dit project was het ontwerpen, aangezien een van de [kernaspecten](./bewijsmateriaal/pre-planning/sollicitatieApp/Prototyping/features.md) was om perfect overeen te komen met de thema's, styling, kleuren en animaties van de [ouderwebsite](https://headline-interactive.nl/). Zorg ervoor dat de eindgebruiker geen verschil voelt tussen de [ouderwebsite](https://headline-interactive.nl/) en [de uitbreiding](https://tourmaline-llama-c716a3.netlify.app/). Samen met onze hoofdontwerper Erwin heb ik het grootste deel van de eerste sprint besteed aan het zo nauwkeurig mogelijk ontwerpen van zowel de [mobiele](./bewijsmateriaal/designs/SollicitatieApp/HeadLine%20Stage%20Website%20Mobile%20Version.pdf) als de [desktopversie](./bewijsmateriaal/designs/SollicitatieApp/HeadLine%20Stage%20Website%20Desktop%20Version.pdf).
 
 </div>
-> ### [VR-applicatie](./bewijsmateriaal/repos/VR%20App%20Repo.url)
+> ### [VR-applicatie](https://drive.google.com/drive/folders/164QfFWPwf1oc0QH83KEfMe-JrwoR2_IY?usp=share_link)
 
  <div style="padding-left:20px;">
 
