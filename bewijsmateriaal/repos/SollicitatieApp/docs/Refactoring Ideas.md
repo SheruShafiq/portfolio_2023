@@ -1,0 +1,1 @@
+1. FormComponent can be broken down into separate TextField components that have their own styling depending on which form field they are. This makes it easier to test the individual components and their functionality.

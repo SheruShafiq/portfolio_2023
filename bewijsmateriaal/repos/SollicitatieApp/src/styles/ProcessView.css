@@ -1,0 +1,64 @@
+#gallerView {
+  scale: 70%;
+}
+.galleryImages {
+  text-align: center;
+
+  max-width: 427px;
+  max-height: 318px;
+}
+img {
+  width: 330px;
+  height: 230px;
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  font-size: 30px;
+  bottom: 0px;
+
+  color: white;
+  background-color: rgb(000, 000, 000, 1);
+  height: 50px;
+  width: 330px;
+  font-family: "Poppins";
+  font-weight: 200;
+  margin-bottom: 3px;
+}
+.slick-slider.center.slick-initialized {
+  margin-bottom: -45px;
+}
+@media only screen and (min-width: 768px) {
+  .slick-slider.center.slick-initialized {
+    margin-bottom: -4px;
+  }
+  #gallerView {
+    scale: 100%;
+  }
+
+  .galleryImages {
+    text-align: center;
+  }
+  img {
+    height: max-content;
+    width: 420px;
+  }
+  /* Centered text */
+  .centered {
+    position: absolute;
+    font-size: 30px;
+    bottom: 0px;
+    color: white;
+    background-color: rgb(000, 000, 000, 1);
+    height: 50px;
+    width: 420px;
+    font-family: "Poppins";
+    font-weight: 200;
+    margin-bottom: 4px;
+  }
+  .slick-list {
+    padding: 0px 110px;
+  }
+
+  /* centerPadding: "530px", */
+}

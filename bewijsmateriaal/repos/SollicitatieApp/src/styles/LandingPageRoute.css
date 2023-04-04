@@ -1,0 +1,50 @@
+#LandingParent {
+  display: flex;
+  justify-content: center;
+  animation: fadeInAndSlideUp 1s ease-out 4s forwards;
+}
+#LoadingScreenLanding {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: fadeOutAndSlideUp 1s ease-out 4s forwards;
+  z-index: 1000;
+}
+
+@keyframes fadeOutAndSlideUp {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+    overflow-y: hidden;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    pointer-events: auto;
+    opacity: 0;
+    transform: translateY(-100%);
+    visibility: hidden;
+  }
+}
+@keyframes fadeInAndSlideUp {
+  0% {
+    overflow-y: hidden;
+    opacity: 0;
+    transform: translateY(100%);
+    visibility: hidden;
+    pointer-events: none;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

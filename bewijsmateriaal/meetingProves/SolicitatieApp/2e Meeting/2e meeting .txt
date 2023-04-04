@@ -1,0 +1,20 @@
+- Who will be writing the texts for the app?
+Placeholders for now.
+- What is the info that HeadLine needs from the user?
+I may decide that myself.
+- Since we are working with private data, may I add agreement to a terms and conditions?
+Yes but the text will be a placeholder.
+- Did we achieve our sprint goals from the previous sprint?
+Yes we did.
+- What went wrong? What went right?
+Nothing particlarly.
+- How can we improve?
+Better commit messages.
+- What are the new goals for this sprint?
+completeting the mvp
+- What is expected by the end of this sprint?
+The website core systems functioning.
+- Can we plan in a code review?
+Send Michael(Headline's lead developer) an email, asking his availablility (with Peter in cc).
+
+PS: Due to shortage of time, the meeting couldn't be as in depth as expected

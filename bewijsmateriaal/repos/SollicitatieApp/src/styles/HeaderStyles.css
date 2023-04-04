@@ -1,0 +1,68 @@
+#logo {
+  width: 4rem;
+  height: 3rem;
+  filter: brightness(1000%) grayscale(100%)
+    /* To change the image color to the white */ opacity(0.1)
+    /* To apply the color all over the image */ drop-shadow(0 0 0 black)
+    /* To apply my costum color */ drop-shadow(0 0 0 black)
+    /* To apply my costum color more stronger */ drop-shadow(0 0 0 black)
+    drop-shadow(0 0 0 black) drop-shadow(0 0 0 black);
+  margin-bottom: 10px;
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.button {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+#menuDots {
+  font-size: xx-large;
+  font-family: "Poppins, sans-serif";
+  font-weight: 900;
+  letter-spacing: 2px;
+  padding: 1rem;
+  text-align: center;
+  margin-right: 1rem;
+  width: 80px;
+  height: 80px;
+  margin-top: -16px;
+  line-height: 0;
+}
+
+#menu {
+  display: flex;
+  flex-direction: row;
+}
+.nav-item {
+  font-size: xx-large;
+  font-family: "Poppins, sans-serif";
+  font-weight: 900;
+  letter-spacing: 2px;
+  padding: 1rem;
+  text-align: center;
+  margin-right: 1rem;
+
+  height: 80px;
+  margin-top: -16px;
+  line-height: 0;
+  color: white;
+}
+
+@media (min-width: 768px) {
+  #logo {
+    margin-left: 3rem;
+    margin-bottom: 13px;
+  }
+  #header {
+    margin-left: -5px;
+    margin-top: 5px;
+  }
+}

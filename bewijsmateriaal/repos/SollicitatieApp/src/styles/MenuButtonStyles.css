@@ -1,0 +1,60 @@
+.pseudo-text-effect {
+  position: relative;
+  padding: 0;
+  overflow: hidden;
+  transition: transform 0.2s;
+  display: hidden;
+  margin-top: 22px;
+}
+.pseudo-text-effect::after {
+  content: attr(data-after);
+  display: inline-block;
+  transform: translateY(100%);
+  position: absolute;
+  left: 0;
+  transition: inherit;
+}
+.pseudo-text-effect > span {
+  display: inline-block;
+  transform: translateY(0%);
+  transition: inherit;
+}
+.pseudo-text-effect:hover > span {
+  transform: translateY(-100%);
+}
+.pseudo-text-effect:hover::after {
+  transform: translateY(0%);
+}
+
+#menuEffect {
+  font-size: 12px;
+  font-family: "Poppins";
+  font-weight: 500;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+#menuButtonHeader {
+  display: none;
+  font-size: 12px;
+  font-family: "Poppins";
+  font-weight: 600;
+}
+@media (min-width: 768px) {
+  .pseudo-text-effect {
+    position: relative;
+    padding: 0;
+    overflow: hidden;
+    transition: transform 0.2s;
+    display: block;
+    margin-top: 22px;
+  }
+  #menuButtonHeader {
+    display: block;
+    font-size: 12px;
+    font-family: "Poppins";
+    font-weight: 600;
+  }
+}

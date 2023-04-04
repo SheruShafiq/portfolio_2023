@@ -1,0 +1,646 @@
+* commit c19a77265ff0061856dd2e303119bd2341cbf1f6
+| Author: Sheru <humaira.laeeq@gmail.com>
+| Date:   Fri Mar 31 19:16:04 2023 +0200
+| 
+|     removed backup folder
+| 
+* commit 957f3c95e505126129beea084a68431904f2772b
+| Author: Sheru <humaira.laeeq@gmail.com>
+| Date:   Fri Mar 31 19:12:17 2023 +0200
+| 
+|     backup_Refactor and documentation
+| 
+* commit 31cbd73758ce3f53edca9faade033f5b0966f0a8
+| Author: Sheru <humaira.laeeq@gmail.com>
+| Date:   Fri Mar 31 19:01:21 2023 +0200
+| 
+|     Refactoring and spliting Form component
+| 
+* commit 8550bade3649773cf88d3c5903e64a814ab9e750
+| Author: Sheru <humaira.laeeq@gmail.com>
+| Date:   Tue Mar 28 19:31:32 2023 +0200
+| 
+|     attr update
+| 
+* commit 72c1d766e6d93ff486b16ae6a1eb80c2647e4329
+| Author: Sheru <humaira.laeeq@gmail.com>
+| Date:   Tue Mar 28 19:30:51 2023 +0200
+| 
+|     attr update
+| 
+* commit 4c14af9ebbd560cd3c002d85277c7169eb5a4fd7
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 16:42:26 2023 +0200
+| 
+|     formBug FIx
+| 
+* commit 14b6640c15ad003fac56bfb630890bd0354a1e78
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 16:37:40 2023 +0200
+| 
+|     dynamic styling Update
+| 
+* commit 37e146f0f73d311dd179de4821fc3e347f7be3bb
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 16:11:29 2023 +0200
+| 
+|     Update daily_log.md
+| 
+* commit 2ca4e203f0b7495d9db2f99d3c8963cf47b6aa0c
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 16:11:04 2023 +0200
+| 
+|     Jira Exports Update
+| 
+* commit 81802ad4872bb3d1fd4a44d79607231271d7d549
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 15:54:51 2023 +0200
+| 
+|     NavMenu Bug Fix
+| 
+* commit d6e8d93d126b17762659ac1a56c029ca6cefce78
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 13:51:35 2023 +0200
+| 
+|     Update TestPlanCP2077-12.md
+| 
+* commit dbd1de8a630f7417ae580c22461ed622c506de85
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 12:45:26 2023 +0200
+| 
+|     Completed Form Component Testing
+| 
+* commit 2794dae44d6f3aa5cff2f1249ed37f8a8b962236
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 10:58:49 2023 +0200
+| 
+|     Header Bug fix
+| 
+* commit c3d00f76f100678a11cc46b8f630fe3c20578462
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 10:49:19 2023 +0200
+| 
+|     VideoProves
+| 
+* commit fe8b1b9bff283fbd06410a264b38bc9aeaedccbd
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 10:46:22 2023 +0200
+| 
+|     navMenu Styling Update
+| 
+* commit 34940bc24b90d3be25b2a96915fde62dd4095356
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 08:12:03 2023 +0200
+| 
+|     presentationUpdate
+| 
+* commit 2aa8c252d078f5ad92c00808a9c6a7500e62d43a
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 28 07:17:52 2023 +0200
+| 
+|     preparing for the demo
+| 
+* commit 0cacba512e4db4195e9912c0400dc413595a6e21
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 16:58:58 2023 +0200
+| 
+|     logStyling
+| 
+* commit b6804efdaf55354fe8fa2100ee4528858bbb2020
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 16:56:09 2023 +0200
+| 
+|     testPlan update
+| 
+* commit b57ff33bbf921e4b486453c053e3c3f2c98f8319
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 16:41:55 2023 +0200
+| 
+|     dailyLog update
+| 
+* commit e53206440c11bd6bf466c77b69c17a1b758f2f3c
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 16:23:47 2023 +0200
+| 
+|     readmeUpdate
+| 
+* commit 3f1cbe01145343e40e805d698ce6368240e3d4f8
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 16:13:57 2023 +0200
+| 
+|     Documenting and commenting the code
+| 
+* commit 1bd20584e078480e616c62ed3cd3614418db9423
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 15:32:36 2023 +0200
+| 
+|     MeetinProves
+| 
+* commit f38e911711cad280b49dbca9c1de11607ba41349
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 15:24:25 2023 +0200
+| 
+|     Documenting Loading Screen Test
+| 
+* commit f80e4ea494f60179632355c73b3d3b66918dd854
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 15:07:29 2023 +0200
+| 
+|     CP2077-63 Component and e2e tests
+| 
+* commit c14909e8163e1c181b6aa16ed106cbf7ce632166
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 13:31:37 2023 +0200
+| 
+|     Test Report template
+| 
+* commit 47b1becdb76e9380b8a2ebd59dd212e8b483ba22
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 13:16:40 2023 +0200
+| 
+|     FolderStructure
+| 
+* commit 40b63b1e366adb23ff9e2395fbbd59b45a8922f1
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 13:11:04 2023 +0200
+| 
+|     Sys Req update in plans
+| 
+* commit 84f47606ca129a694a0a10a94cf7e0b1d1f55ce3
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 13:08:55 2023 +0200
+| 
+|     Test plans completed.
+| 
+* commit 5f0db503cc7a2b7688455ea38e43e170018b2a96
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 13:02:27 2023 +0200
+| 
+|     more testplans update
+| 
+* commit e6e1681b5c588cce845c1d57e948995d0b8c9651
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 12:14:24 2023 +0200
+| 
+|     TestPlans update
+| 
+* commit 3a9cac81e8e10e92b5ac59851a0c1bc6758b214b
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 11:57:41 2023 +0200
+| 
+|     Testing issues list completed
+| 
+* commit 5e2b72027187c975bb84d202142c183f04757222
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 10:33:31 2023 +0200
+| 
+|     styling update CP2077-63
+| 
+* commit d8b5bfb5e7464a78280f74a3867f34a8b987d827
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 27 10:32:17 2023 +0200
+| 
+|     Test plans and documentation
+| 
+* commit 0c3cec0df479c0820af3d451a59dabf9288d1fac
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Thu Mar 23 17:26:16 2023 +0100
+| 
+|     Testing Documentation
+| 
+* commit 39399966637a031196be6177fd8c42309e71079e
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Thu Mar 23 16:15:23 2023 +0100
+| 
+|     LoadingComponent Test
+| 
+* commit 34178d865cadefcbfa7d044f0883d31df9c8e9b4
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Thu Mar 23 13:47:39 2023 +0100
+| 
+|     testing Cypress and setting up envoirnment
+| 
+* commit 2df6a81466bbb2c0818b9f6a718261e3b23e7066
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Thu Mar 23 13:23:15 2023 +0100
+| 
+|     Installed Cypress + setting up testing
+| 
+* commit b57867e063006bf2135b5efac02465bfb8e55367
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Thu Mar 23 12:46:56 2023 +0100
+| 
+|     log and proves update
+| 
+* commit 93a286efe4e21ca3a8319b65773176a55b5f4fd4
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Thu Mar 23 11:44:10 2023 +0100
+| 
+|     dynamic width on render
+| 
+* commit 739e7046851f402ba41d2be104470dd4dc86fd40
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Thu Mar 23 11:16:24 2023 +0100
+| 
+|     galaxyFold styling compatibility
+|   
+*   commit 000a073287a09d68a7b83c7cf32912d8d83eb909
+|\  Merge: 764e0ee 2b2e49a
+| | Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| | Date:   Thu Mar 23 11:13:00 2023 +0100
+| | 
+| |     Merge branch 'main' of https://github.com/SheruShafiq/Job-Application
+| | 
+| * commit 2b2e49ac8dc8f872e3bf68a54a31fd823f5a7fde
+| | Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| | Date:   Tue Mar 21 16:19:55 2023 +0100
+| | 
+| |     Update readme.md
+| | 
+* | commit 764e0ee1e57029e889c584732995b4ba6ddf77df
+|/  Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+|   Date:   Thu Mar 23 11:12:49 2023 +0100
+|   
+|       galleryView + formWidth bug Fix
+| 
+* commit f0ac2edc18b1cc9759eebac8479d645209aab009
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 21 16:19:31 2023 +0100
+| 
+|     proof
+| 
+* commit 25db78b83d8cb197a1ea1a84e544c23ec54624de
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 21 16:18:36 2023 +0100
+| 
+|     logs Update
+| 
+* commit 3a73bf7f74bf885a98b5e6b742e1e9ff97474d1f
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 21 16:08:19 2023 +0100
+| 
+|     latest build: Fixed mobile width
+| 
+* commit 3d769319ad4e258cd645619cfa125af6ea62d77b
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 21 15:28:58 2023 +0100
+| 
+|     Transition Component + Implementation
+| 
+* commit 7d048c5a4e4c18ad17db58c0e140609d742a2d74
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 21 12:50:05 2023 +0100
+| 
+|     Desktop design update + New Carosuel
+| 
+* commit e149785ecc96b2cbc105e5f3e4cc356715eaf0e2
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 20 16:53:21 2023 +0100
+| 
+|     implementing, testing React Slick
+| 
+* commit cac03236061572814d0ad0f2e1c8abfeca72f2f4
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 20 16:31:58 2023 +0100
+| 
+|     Desktop Styling + Removed Carousel
+| 
+* commit d8965334a0c0c8fc0514ec276783ebf9caeddfd2
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 20 11:43:01 2023 +0100
+| 
+|     Transition update
+| 
+* commit 8fda1c1fd9580329263276e521ac42cd27627387
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 20 11:24:00 2023 +0100
+| 
+|     Routing update
+| 
+* commit 0110e0a0e947962b5f87886aad56fc97273c683d
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Wed Mar 15 19:45:18 2023 +0100
+| 
+|     updated yesterday's missing log
+|     
+|     used github commit history
+| 
+* commit af40db511df558de58e3b3d65ed437d37b42ac42
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Wed Mar 15 19:39:03 2023 +0100
+| 
+|     cleanup imports
+| 
+* commit d8c895b0f3d7e21c957d5787f73e61bde73280ff
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Wed Mar 15 19:26:54 2023 +0100
+| 
+|     VSCode time screenshot
+| 
+* commit 270507da484db01ddbacec3bb58ee9636411733a
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Wed Mar 15 19:24:53 2023 +0100
+| 
+|     DailyLog, Jira, Plan update
+|     
+|     Also implemented basic page files for routing
+| 
+* commit 47d2daab778965ff5b802223a5bc8dddbfb08269
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Wed Mar 15 18:21:02 2023 +0100
+| 
+|     Form MUI update
+| 
+* commit 18d085c372267e3326179c3765c2baa2046598f7
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 14 12:31:55 2023 +0100
+| 
+|     expression check update
+| 
+* commit 975de8b2d71263104a3351a136f48d6d5e048697
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 14 12:09:49 2023 +0100
+| 
+|     Form component and input component
+| 
+* commit 13fb9a6340589fcac28c7e9eb0fc8e83884d3e01
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 13 20:44:16 2023 +0100
+| 
+|     update log
+| 
+* commit 310d7385b45d97a8a23cce27164112b7f25a433c
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 13 20:39:43 2023 +0100
+| 
+|     button dynamic text props
+| 
+* commit 2f900f643792362b914263f47f3ecac63cb663eb
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 13 20:36:19 2023 +0100
+| 
+|     landingPage base completed
+| 
+* commit 6b41b97485797d4a7d7854c21ca05380a6a589f6
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 13 18:01:20 2023 +0100
+| 
+|     HeaderComponent
+|     
+|     created a header component and implemented the HeadLine font
+| 
+* commit 5c520bbacec1b21f3cf4c9ec4e6e4d0328c850fd
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 13 15:59:15 2023 +0100
+| 
+|     meeting notes update
+| 
+* commit 26e76a42aba9eb27c92e91119dd724e6a0a155cf
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 13 09:29:50 2023 +0100
+| 
+|     2nd meeting notes
+| 
+* commit e856aa92d0ea4415423c9b24a22a1831704dcb8f
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Thu Mar 9 16:46:56 2023 +0100
+| 
+|     daily_log update
+| 
+* commit 7dd3d2b1c02f01f986e2527323fda5c4d773d035
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Wed Mar 8 21:21:11 2023 +0100
+| 
+|     ApiTestLogs
+| 
+* commit 75519a9995ed431b395596ad0dc6ac9f3a1efbe6
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Wed Mar 8 17:03:05 2023 +0100
+| 
+|     dailylogupdate
+| 
+* commit d86d31ad0c98500193cce6e8b7200d945e1d74cc
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Wed Mar 8 16:56:27 2023 +0100
+| 
+|     figured out an email sending service
+| 
+* commit 44cab8cdebe722c22ad50afab530031c78e4f096
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Wed Mar 8 15:28:10 2023 +0100
+| 
+|     created react app
+| 
+* commit c5fa21c434cc9679e68aeb58c7d7404e7e2df9cb
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Wed Mar 8 13:31:57 2023 +0100
+| 
+|     design + log update
+|     
+|     design review worked off and recorded, updated the log
+| 
+* commit bed6a5e575ca1a963f7072b4b2a4f7096cec0270
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 7 16:48:38 2023 +0100
+| 
+|     Desktop Version Update
+| 
+* commit 0f794fb284bdb124b38fd01441db037a9dc2d881
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 7 16:30:15 2023 +0100
+| 
+|     Desktop Design Update
+| 
+* commit f471a4f3bae8fe0a4e5e58e7e84880637bb388cf
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 7 16:18:35 2023 +0100
+| 
+|     Log Update
+| 
+* commit 450aca487361bbedeebf990f7fa063d80b4a753e
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 7 14:49:16 2023 +0100
+| 
+|     test
+| 
+* commit a60460babf0448350462be047bcc844eb35f5efd
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 7 14:48:40 2023 +0100
+| 
+|     ReadMe Update
+| 
+* commit bcc39b29a1d4adbfc05136cf0698ca217342e425
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 7 14:46:19 2023 +0100
+| 
+|     folder structure update and Readme
+| 
+* commit d500660b9be48ff59d526884b22ccc26ad8d9991
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 7 13:16:42 2023 +0100
+| 
+|     privacy Policy
+| 
+* commit 11f1ee9b22bfd522a621501adf6c7b3f3fa039f1
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 7 12:59:55 2023 +0100
+| 
+|     Design document update
+|     
+|     Commiting the accepted design document for mobile.
+| 
+* commit ca9da863f8e5fd9d5fb84ed8ff10025ac2d89fdb
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 7 12:42:17 2023 +0100
+| 
+|     update log
+| 
+* commit 8e56ece6147672a4284b8a9fb572d4f7e81875f7
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Mar 7 12:04:40 2023 +0100
+| 
+|     update log
+| 
+* commit ed323f65d170b42945a6db40eedef3fc7d04710c
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 6 16:34:11 2023 +0100
+| 
+|     daily log update
+| 
+* commit 7187d1084398ae780abe80369e8bc22ed2e8216a
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 6 15:50:07 2023 +0100
+| 
+|     folder relocate
+| 
+* commit b3427d2dbfba142de42b74961511c436d9802338
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 6 15:49:18 2023 +0100
+| 
+|     completed UML
+| 
+* commit 2831d17cc9de9532e78a7b1955971016e23a4941
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 6 15:34:12 2023 +0100
+| 
+|     sequence diagram
+| 
+* commit d5c5e1934dadad9fa64fbbc13c8e1b64de28f80c
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 6 15:09:10 2023 +0100
+| 
+|     link meeting
+| 
+* commit 0576e66cf6754f7ccfae869dfac5048f4888b4c8
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 6 13:43:35 2023 +0100
+| 
+|     meetingCloud update
+| 
+* commit 07ce9204f344e41249b6a658ae63372d7bddc2b5
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 6 13:40:04 2023 +0100
+| 
+|     gitignore update
+| 
+* commit a0412d88b038a1afa6c4a4b538bb6ff8f7ada6cb
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 6 13:38:10 2023 +0100
+| 
+|     kickoff Meeting recording
+| 
+* commit b94c146f1cb6f68035a135bd6e4bb3d506d41ab1
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 6 13:21:34 2023 +0100
+| 
+|     gitIgnore update
+| 
+* commit fe5a04e7a2a03b7da8a09192f6feb0e3e65504e4
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Mar 6 13:20:56 2023 +0100
+| 
+|     kickoff meeting
+| 
+* commit 88967882844f31f0f8a5d68f46acf9302113ebd2
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Thu Mar 2 20:08:18 2023 +0100
+| 
+|     update
+| 
+* commit 249022fe349c842608be399937c28f2c1af77088
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Thu Mar 2 09:47:48 2023 +0100
+| 
+|     base UML and prototyping
+| 
+* commit e3050f02ab715b766e4ca94129393e85b6e25a49
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Feb 27 10:54:24 2023 +0100
+| 
+|     update
+| 
+* commit d1c3ca5b306ae2a9bb18108d08ac33b1da34e314
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Feb 27 10:41:16 2023 +0100
+| 
+|     Pre FIrst meeting preprations
+| 
+* commit c831f99c39ae0c333b20b555fb978f69c3da12cd
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Fri Feb 24 17:01:54 2023 +0100
+| 
+|     update daily plan
+| 
+* commit d586863a60c2ebd8986e42ce49c1e372aef56e1e
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Tue Feb 14 09:46:14 2023 +0100
+| 
+|     UML plan update
+| 
+* commit 1db74a625d966ca31e969fb8eb2f04c6ff5a829c
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Feb 13 17:11:21 2023 +0100
+| 
+|     Update daily_plan.md
+| 
+* commit 77145f9f64fa52458b39edc578d9920b5c1e6ee2
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Feb 13 16:52:59 2023 +0100
+| 
+|     folder structure
+| 
+* commit 3ca25b9b17aad54a3b2f97831fea87fb4bfa10e1
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Feb 13 16:46:00 2023 +0100
+| 
+|     Update stappen_plan.md
+| 
+* commit ec3cd137f2d185690cb0b7ae5b0864013bd71ef9
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Feb 13 16:19:23 2023 +0100
+| 
+|     Update stappen_plan.md
+| 
+* commit 3e3b18df5071d536c1a13c404a0d2acff23184c5
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Feb 13 15:43:55 2023 +0100
+| 
+|     minor updates on stappen_plan
+| 
+* commit b74f1dea0dd1d322ad2d68ea00cf99db83c68452
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Feb 13 14:34:08 2023 +0100
+| 
+|     base docs
+| 
+* commit f1b0345cb52fb5b8cf9e3cb886212b3bb1e59f93
+| Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+| Date:   Mon Feb 13 13:50:16 2023 +0100
+| 
+|     proposal
+| 
+* commit 0d7a58c3d64a5a831cd3559302c9cd2fa066c08d
+  Author: Sheru <100682913+SheruShafiq@users.noreply.github.com>
+  Date:   Mon Feb 13 13:48:54 2023 +0100
+  
+      Initial commit

@@ -1,0 +1,40 @@
+#landingPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 820px;
+}
+#formPageParent {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  overflow-x: hidden;
+}
+#resultParent {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  overflow-x: hidden;
+}
+#titleApp,
+#mainContent {
+  padding: 1rem;
+}
+#titleApp {
+  padding-top: 7rem;
+}
+
+#header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+#buttonApp {
+  margin-top: 8rem;
+  /* margin-left: 10rem; */
+}

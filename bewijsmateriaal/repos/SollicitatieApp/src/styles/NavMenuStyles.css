@@ -1,0 +1,167 @@
+.overlay-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgb(20, 20, 20, 1);
+  z-index: 17;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+
+.overlay-nav.open {
+  opacity: 1;
+  visibility: visible;
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none;
+  margin-right: 1.5rem;
+}
+label {
+  color: white;
+  font-family: "Poppins";
+  width: max-content;
+}
+a {
+  color: white;
+  font-weight: 500;
+  font-family: "Poppins";
+  line-height: 100px;
+  font-size: 50px;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.overlay-nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#InmenuDots {
+  font-size: xx-large;
+  font-family: "Poppins, sans-serif";
+  font-weight: 900;
+  letter-spacing: 2px;
+  text-align: center;
+  width: 80px;
+  height: 80px;
+
+  line-height: 0;
+  position: absolute;
+  padding: 1rem;
+  margin-right: 1rem;
+  top: 0;
+  right: -16px;
+  color: white;
+}
+.nav-links {
+  height: 100px;
+  padding-top: 280px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10rem;
+}
+.nav-item {
+  width: 600px;
+  font-size: 52px;
+  margin-right: 40px;
+  font-size: 52px;
+  margin-right: 40px;
+  margin-top: -20px;
+  display: block;
+  height: 100%;
+}
+#menuButton {
+  display: none;
+}
+/* fade ALL out on parent hover */
+.nav-links:hover > .nav-item {
+  opacity: 0.6;
+}
+
+/* fade ONE in on hover */
+.nav-links > .nav-item:hover {
+  opacity: 1;
+}
+
+.nav-item {
+  width: fit-content;
+}
+#InmenuLogo {
+  position: absolute;
+  width: 4rem;
+  height: 3rem;
+  padding: 1rem;
+  margin-right: 1rem;
+  top: 9px;
+  left: 0px;
+}
+#NavMenu12 {
+  display: flex;
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  #menuButton {
+    display: block;
+    margin-top: -35px;
+  }
+
+  #InmenuDots {
+    font-size: xx-large;
+    font-family: "Poppins, sans-serif";
+    font-weight: 900;
+    letter-spacing: 2px;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    margin-top: 5px;
+    line-height: 0;
+    position: absolute;
+    padding: 1rem;
+    margin-right: 1rem;
+    right: -11px;
+    color: white;
+  }
+  .nav-item {
+    margin-top: -20px;
+    width: 600px;
+    display: block;
+    height: 100%;
+  }
+  a {
+    font-size: 78px;
+    color: white;
+    font-weight: 500;
+    font-family: "Poppins";
+    line-height: 100px;
+  }
+  #InmenuLogo {
+    position: absolute;
+    width: 4rem;
+    height: 3rem;
+    padding: 1rem;
+    margin-right: 1rem;
+    top: 21px;
+    left: 43px;
+  }
+}

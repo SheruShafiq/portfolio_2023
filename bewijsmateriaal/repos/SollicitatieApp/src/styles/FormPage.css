@@ -1,0 +1,28 @@
+#FormComponent {
+  background-color: black;
+  width: 768px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+.FormMobile {
+  display: flex;
+  justify-content: center;
+}
+.FormDesktop {
+  display: none;
+}
+
+@media only screen and (min-width: 768px) {
+  .FormMobile {
+    display: none;
+  }
+  .FormDesktop {
+    display: flex;
+    justify-content: center;
+  }
+  #FormComponent {
+    background-color: black;
+    width: 10000px;
+  }
+}

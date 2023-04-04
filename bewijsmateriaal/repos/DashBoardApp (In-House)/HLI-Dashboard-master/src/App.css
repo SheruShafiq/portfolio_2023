@@ -1,0 +1,65 @@
+.videoTag {
+  display: none;
+}
+
+
+
+html {
+  width: 100%;
+  height: 100%;
+  background-color: #222831;
+
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+
+}
+
+#main-content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+#weather-widget {
+  margin-left: 30px;
+}
+
+
+
+@media (min-width: 1200px) {
+  .videoTag {
+    display: block;
+    position: absolute;
+    z-index: -1;
+    scale: 100%;
+    left: -00px;
+    top: -0px;
+  }
+
+  html {
+    overflow: hidden;
+  }
+
+
+  #main-content-top {
+    display: flex;
+    justify-items: flex-end;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-left: 1190px;
+  }
+
+  #main-content-bottom {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 30px;
+
+  }
+}

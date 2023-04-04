@@ -1,0 +1,44 @@
+Bijeenkomst 1, kernvragen:
+
+1) Wat zijn mogelijke functionaliteiten?
+Bekijk vacatures
+Vacature bekijken
+Bekijk foto's
+Locatie bekijken
+CV uploaden (PDF, IMG)
+Proces bekijken
+
+2) Wat is onze MVP?
+Een website met een functionerend formulier dat gebruikersgegevens naar een aangewezen e-mailadres stuurt.
+
+4) Verwachtingen?
+Verwacht wordt dat deze website zal integreren in de oorspronkelijke hoofdwebsite van Headline.
+
+5) plan de volgende vergadering
+We gaan wekelijk meetings aan houden na elke sprint fysiek of online. 
+
+
+Meeting 1, key questions EN: 
+Recording the meeting
+
+1) What are possible functionalities?
+Check Vacancies
+View Vacancy
+View Photos 
+View Location
+Upload CV (PDF, IMG)
+View Process
+
+2) What is our MVP?
+A website that has a functioning form that sends user data to designated Email adress.
+
+3) Sort out the features on the basis of MOSCOW
+Check Vacancies Must have
+View Vacancy	Must have 
+View Photos 	Could have
+View Location	Could have
+Upload CV (PDF, IMG) Could have
+View Process	Should have
+
+4) Expectations?
+It is expected for this website to intergrate into Headline's orignal main website.

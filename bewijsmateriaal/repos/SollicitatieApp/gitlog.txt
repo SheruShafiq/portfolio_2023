@@ -1,0 +1,1345 @@
+commit 2672e12b96db7c9e48cd8a24c122ddeecf67d0ba
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 21 11:39:31 2022 +0100
+
+    HCF-xxx pint
+
+commit d2ba71da1180ead0b67d435626acdeffe52949a8
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 21 11:39:00 2022 +0100
+
+    HCF-xxx status refactor
+
+commit 427203c66a6679877b67b624b38b3b346c195272
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 21 11:35:22 2022 +0100
+
+    HCF-xxx status refactor
+
+commit 2217efad34442c03e7825443d21a388d11786586
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 21 11:07:32 2022 +0100
+
+    HCF-xxx tests and enums fix
+
+commit 90bd7ef61095885ceda8897f433685d484d790bc
+Merge: 1930726 a6a6342
+Author: Thijs Meijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 21 09:14:00 2022 +0000
+
+    Merged in refactors (pull request #32)
+    
+    Refactors
+    
+    Approved-by: Kasper Ligthart
+
+commit a6a63424844adc55ad5115c4414d601154a180d0
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 21 10:13:30 2022 +0100
+
+    HCF-xxx front-end refactor
+
+commit 8b4c9507ce36977dabd8dad37996ef77df189474
+Merge: 15fd6f6 d1065ca
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 21 09:57:29 2022 +0100
+
+    Merge branch 'refactors' of bitbucket.org:ifresh-repositories/horecacrowdfunding-2022 into refactors
+
+commit 15fd6f6009d2884c48dd01096cb61a9a6c6d0069
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 17:42:54 2022 +0100
+
+    HCF-xxx projects show view refactor
+
+commit 8a7734e7770ec527f79162114d81c95e65058f4d
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 17:42:17 2022 +0100
+
+    HCF-xxx projects show view refactor
+
+commit 7f5c070dfdba7e6ab270a09ef149bf59d6f5ba73
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 17:40:50 2022 +0100
+
+    HCF-xxx projects index view refactor
+
+commit a773b56b94cd0b79c465435e258b57feb3d26bec
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 17:39:48 2022 +0100
+
+    HCF-xxx remove data wrapping on resources
+
+commit bdaa4bfbaec28c6126de9293e54c8979af2dfcc8
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 17:39:17 2022 +0100
+
+    HCF-xxx home view refactor
+
+commit f3f49b34afca12035d7accc165e64d768368fe3c
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 13:49:46 2022 +0100
+
+    HCF-xxx add precognition to project create
+
+commit 2bf48f2527953c9c77c2f8a9a5340b1362c652b6
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 13:12:24 2022 +0100
+
+    HCF-xxx add sluggable package
+
+commit 87ab1981521a9cbf816052ea7804d1c4ac49d028
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Mon Dec 12 15:54:15 2022 +0100
+
+    HCF-xxx investment agreements are now filtered by investment id's
+
+commit b5b9685df6db047840e1026a5226cfb39fbc981b
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Mon Dec 12 00:57:25 2022 +0100
+
+    HCF-xxx fix bugs created by last commit
+
+commit eed81db69ba2309fbe44de8d3b538879ba024e8c
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Mon Dec 12 00:51:56 2022 +0100
+
+    HFC-xxx random refactors
+
+commit 1930726b3f80369a7eec61d6871916e802fcda0b
+Author: Stephan Bouman <stephan@creativecycle.nl>
+Date:   Wed Dec 21 00:15:55 2022 +0100
+
+    HCF-xxx unit tests
+
+commit c70bc833e5ef66303d671f52114cb75141219306
+Author: Tom Kuijer <t.kuijer@ifresh.nl>
+Date:   Tue Dec 20 10:55:35 2022 +0100
+
+    HCF-xx Test bugfix
+
+commit 8b5e0a05736d563b5a00fa718091e7e23e7260ef
+Author: Stephan Bouman <stephan@creativecycle.nl>
+Date:   Mon Dec 19 23:52:48 2022 +0100
+
+    HCF-xxx project unit test
+
+commit a64a34cbb9a61862f92aa2299063e19e9a32825f
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 16 15:41:50 2022 +0100
+
+    HCF-xxx fixed tests
+
+commit 0c7e2f280bbfca0fa62def2df8cec17079f60750
+Author: Stephan Bouman <stephan@creativecycle.nl>
+Date:   Fri Dec 16 15:35:52 2022 +0100
+
+    HCF-xxx feature tests voor investment index page
+
+commit 58369b03bb03731279c6911e8a3d9f49d77b9278
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 16 14:29:01 2022 +0100
+
+    HCF-xxx feature tests voor investment index page
+
+commit 7e1652f94c6fc6df5a8de98f4395186bc80edba1
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 16 13:47:23 2022 +0100
+
+    HCF-xxx feature tests voor investment create page
+
+commit 3a167087486f53fd61f8f4dee3368b130dd48f90
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 16 12:14:58 2022 +0100
+
+    HCF-xxx refactor factories
+
+commit b8dd4c79b05c4d4416a967aa47baa9688105ea35
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 16 12:12:29 2022 +0100
+
+    HCF-xxx refactor factories
+
+commit 92f45e7e7416c5ddf18b20ade374f0bc5b4f092e
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 16 12:09:32 2022 +0100
+
+    HCF-xxx refactor seeders
+
+commit 5e9e05a9be826e6f2b0abebda18a0e78bd20241a
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 16 12:05:57 2022 +0100
+
+    HCF-xxx refactor for sqlite database
+
+commit 19a236fb7f9e4553bbb5dff020e49ad24a3e52e8
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 16 11:48:11 2022 +0100
+
+    HCF-xxx refactor phpunit
+
+commit e98b65689f776013f8abe19b499aa339cedc76a1
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 16 11:33:00 2022 +0100
+
+    HCF-xxx refactor
+
+commit dbaf1bdfcf70c45fdba104ffa88185a48705c3a8
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 16 11:06:45 2022 +0100
+
+    HCF-xxx feature tests voor project create page
+
+commit c91bcbe81b3ea73fc5b05910824af37dec447a66
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 15 16:55:57 2022 +0100
+
+    HCF-xxx feature tests voor project edit page
+
+commit 98cf8b3c4efdf4648accaef316a3d7e8946b017a
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 15 16:24:34 2022 +0100
+
+    HCF-xxx feature tests voor profile page
+
+commit d81c114352c63e5cd79dab3f7a9e7f9120b0e896
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 15 15:49:21 2022 +0100
+
+    HCF-xxx feature tests voor project show page
+
+commit e3328136de1d9502ea6e0d4e017a7761984a1472
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 15 15:18:36 2022 +0100
+
+    HCF-xxx feature tests voor project index page
+
+commit 776d78c148194396cd7d94663d579c3618f3b882
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 15 14:01:27 2022 +0100
+
+    HCF-xxx feature tests voor home page
+
+commit c098bb9938e6bb47948cefc83c7c509864574b21
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 14 09:53:38 2022 +0100
+
+    HCF-xxx spelling mistake
+
+commit d1065cad1ea6df47b087dafe9d5c2b11d8dbc116
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 17:42:54 2022 +0100
+
+    HCF-xxx projects show view refactor
+
+commit 7b31cc7ac2e4a7d1c5917394bf34fd48ec1f092d
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 17:42:17 2022 +0100
+
+    HCF-xxx projects show view refactor
+
+commit 53002d03d97d77ffea54deb91cda85163f639ae1
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 17:40:50 2022 +0100
+
+    HCF-xxx projects index view refactor
+
+commit d12c323affe73037a784f5e9b130f55962da4c34
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 17:39:48 2022 +0100
+
+    HCF-xxx remove data wrapping on resources
+
+commit 178b204801f2b9d4835d35ee2a33ca9f56ec536b
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 17:39:17 2022 +0100
+
+    HCF-xxx home view refactor
+
+commit 24c13206959d760c25136abf7ff5b2ed8920ec59
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 13:49:46 2022 +0100
+
+    HCF-xxx add precognition to project create
+
+commit 45c6ec31f212d76a7c86bbe28a60d7168f2cb197
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Tue Dec 13 13:12:24 2022 +0100
+
+    HCF-xxx add sluggable package
+
+commit f220cfe05204fcdad4cf591d9212d0ee3c020bbf
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Mon Dec 12 15:54:15 2022 +0100
+
+    HCF-xxx investment agreements are now filtered by investment id's
+
+commit 651c61b5326e4eade7b84217298f288d73cefd71
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Mon Dec 12 00:57:25 2022 +0100
+
+    HCF-xxx fix bugs created by last commit
+
+commit 17a8e843b58f32381a8251d3e7d2d11bfd2e2a45
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Mon Dec 12 00:51:56 2022 +0100
+
+    HFC-xxx random refactors
+
+commit 9814597688a64d05303d86ccda92b32880e744ed
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Fri Dec 9 10:16:40 2022 +0100
+
+    HCF-bugfix project status enums on investment page
+
+commit 4b483e29acaaedf4b910f5eae7f84ae785205bb2
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 17:08:35 2022 +0100
+
+    HCF-115
+    
+    Als investeerder wil ik na het aanmaken van een investering een overeenkomst te zien krijgen.
+
+commit ea5fd6ae6c5915d268f0fcbb864daf69a609ae27
+Merge: da6e331 90cc226
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 16:02:07 2022 +0000
+
+    Merged in HCF-53 (pull request #30)
+    
+    HCF-129   Als investeerder wil ik dat de pagina er goed uit ziet op alle schermgroottes.
+    
+    Approved-by: Thijs Meijer
+
+commit 90cc22684978b7084932404c01e4728b0e3ca838
+Merge: 916b553 da6e331
+Author: Thijs Meijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 16:01:46 2022 +0000
+
+    Merged development into HCF-53
+
+commit 916b553e1e38ea3a83f1e690b31db5baefbba69e
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 17:00:55 2022 +0100
+
+    HCF-129   Als investeerder wil ik dat de pagina er goed uit ziet op alle schermgroottes.
+
+commit da6e331550f7dde6ead0cef12c0c1eaff03d5af6
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 16:57:40 2022 +0100
+
+    HCF-xxx totale investeering op show pagina
+
+commit 011beb75196526a7c3b1007bec01abd603194614
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 16:51:30 2022 +0100
+
+    HCF-bugfix project show card length
+
+commit b58b82b4e37677f47b37f74ec466627f29750029
+Merge: 8a1ccba a298eb0
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 15:46:06 2022 +0000
+
+    Merged in HCF-21 (pull request #29)
+    
+    HCF-21
+    
+    Approved-by: Thijs Meijer
+
+commit a298eb0a13f68ccd29aea6ebf49c89f0c52eeca9
+Merge: 149290b 8a1ccba
+Author: Thijs Meijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 15:45:25 2022 +0000
+
+    Merged development into HCF-21
+
+commit 8a1ccba5db4de9a838bba09506269651340bca02
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 16:45:12 2022 +0100
+
+    HCF-xxx project seeder update
+
+commit 149290bab3498ded42ab9a5442fd8c1e5c685455
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 16:43:41 2022 +0100
+
+    Fixed: status scopes and checks
+
+commit 91a97401407ddc2f2bfca9ed8717e4d48c844f5d
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 16:35:21 2022 +0100
+
+    HCF-128   Als gebruiker wil ik dat de pagina er goed uit ziet op alle schermgroottes.
+
+commit d9d8c2031c0ea506d715595a88918dbdf2ade53c
+Merge: cb114e5 ebd7b09
+Author: Thijs Meijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 15:32:41 2022 +0000
+
+    Merged in editproject (pull request #28)
+    
+    HCF-xxx project status enums
+    
+    Approved-by: Kasper Ligthart
+
+commit ebd7b09fc25268439e151500a543681c2ea847de
+Merge: a8d3820 cb114e5
+Author: Thijs Meijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 15:30:58 2022 +0000
+
+    Merged development into editproject
+
+commit a8d38207f1fe5a1989a15d3ed86b7d6a00678871
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 16:30:18 2022 +0100
+
+    HCF-xxx project status enums
+
+commit cb114e502b9e0c4edd9988c407f372dcd6e938b0
+Merge: 655db44 4fc03e0
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 15:01:08 2022 +0000
+
+    Merged in HCF-35 (pull request #27)
+    
+    HCF-127 Als ondernemer wil ik dat de pagina er goed uit ziet op elke schermgrootte.
+    
+    Approved-by: Thijs Meijer
+
+commit 4fc03e0046fead15738f629081b24800e56e0c18
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 15:49:18 2022 +0100
+
+    HCF-127 Als ondernemer wil ik dat de pagina er goed uit ziet op elke schermgrootte.
+
+commit 655db445d1d80b51c470f85d8d970bdeb9d74fc1
+Merge: bf8b067 d8ebdd2
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 13:33:10 2022 +0000
+
+    Merged in progression-bar (pull request #26)
+    
+    Progression bar
+    
+    Approved-by: Thijs Meijer
+
+commit d8ebdd256f677bc7c87e7726ee73e1c49d2343dd
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 14:29:18 2022 +0100
+
+    Fixed: default interest rate & duration
+
+commit 15d0e27ff42d6e5a88b6aa8a5e3a4848dd0a6328
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 14:22:48 2022 +0100
+
+    Fixed: default interest rate & duration
+
+commit 166cee0397d52023dba7862695b594fd19075e93
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 14:22:04 2022 +0100
+
+    HCF-122 Als gebruiker wil ik naast een indicatie balk voor de progressie van een project ook de procentuele waarde zien.
+
+commit bf8b0675978f13fbc3f9dd05a3a18182fea53b43
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 14:02:59 2022 +0100
+
+    HCF-121   Als gebruiker wil ik dat de navigatie balk overal overeenkomt.
+
+commit 3682e0bd4dece2cd5802c133358966506b8734a6
+Merge: 2165bbd ab0fde6
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 12:58:14 2022 +0000
+
+    Merged in navbar (pull request #25)
+    
+    HCF-121 Als gebruiker wil ik dat de navigatie balk overal overeenkomt.
+    
+    Approved-by: Thijs Meijer
+
+commit ab0fde60727868c9a4dc65f7ddde452f5ed5faeb
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 13:57:15 2022 +0100
+
+    HCF-121 Als gebruiker wil ik dat de navigatie balk overal overeenkomt.
+
+commit 2165bbdd4fd0b393616a61e57ee509f5f20e781d
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 12:31:49 2022 +0100
+
+    HCF-refactor cleanup database structure
+
+commit 2ebd7df1f813cff3b47ff8024d997f4f66105ece
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 12:26:50 2022 +0100
+
+    HCF-refactor rename Round to MultipleOfHundred
+
+commit a994779f8e345cc82a869ea765295e619951db8c
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 12:24:30 2022 +0100
+
+    HCF-refactor cleanup all repositories
+
+commit fd5edf19694f50e9281070fb758029ebc5476020
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 12:21:53 2022 +0100
+
+    HCF-refactor cleanup all providers
+
+commit 9fdc29c15373f8bff9a02a2f137c523e92e645d0
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 12:19:23 2022 +0100
+
+    HCF-refactor cleanup all models
+
+commit 2ac8e5ad54c9572ee1cff5a0d4b36c7851db574f
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 12:14:52 2022 +0100
+
+    HCF-refactor cleanup all requests
+
+commit 994088ea647810aeda774a594f909d84795b7b8d
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 12:04:17 2022 +0100
+
+    HCF-refactor authorization on editing a project + cleanups
+
+commit 3c91973369c847a3b81c4ca091e62930eee3c526
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 11:56:21 2022 +0100
+
+    HCF-refactor cleanup middleware controllers
+
+commit 685e4d29e1d4b27049ca84cb64250deb28581814
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 11:50:39 2022 +0100
+
+    HCF-refactor created at is already carbon
+
+commit 9a6af8b7122318f9430d430edbb66e548ecb09eb
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 11:46:54 2022 +0100
+
+    HCF-refactor database query optimization
+
+commit a3a97058ad126d42ca9cf402d9a2554c171cefea
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 11:38:15 2022 +0100
+
+    HCF-refactor mo % in model attributes
+
+commit 9827ce38033449183edca80f51417dff73f4c343
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 11:32:25 2022 +0100
+
+    HCF-refactor changed total invested attribute
+
+commit 2dad17c717110d94f54fd7d6e3b4fb1a5101cbf0
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 11:17:31 2022 +0100
+
+    HCF-xxx pint
+
+commit 39c4d0c02300de9699b81a0ae7760f14d856166c
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 11:17:12 2022 +0100
+
+    HCF-refactor clean up web routes
+
+commit 55b2d8f328ddf8569ddea77b7c4b95347f3d8386
+Merge: f1e86ee 839d907
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 10:02:29 2022 +0000
+
+    Merged in HCF-97 (pull request #24)
+    
+    HCF-117  Als gast wil ik de projecten die afgerond zijn niet meer zien.
+    
+    Approved-by: Thijs Meijer
+
+commit 839d907816c0f0918477bc4936858710fdbecf1f
+Merge: db4f284 f1e86ee
+Author: Thijs Meijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 10:02:19 2022 +0000
+
+    Merged development into HCF-97
+
+commit f1e86eeaa7605cef41710ccb0fcbcf472547887e
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 11:00:08 2022 +0100
+
+    HCF-bugfix project resources
+
+commit db4f2843f2b7b53a1000a5f08786c309aef34f7f
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 10:59:13 2022 +0100
+
+    HCF-117  Als gast wil ik de projecten die afgerond zijn niet meer zien.
+
+commit 5e684288cc28988e043cd25dbcd1d0584d8799dc
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 10:50:52 2022 +0100
+
+    HCF-bugfix project seeder fixed
+
+commit aea0860326a44d32e8f86d57e9f997261a87aac7
+Merge: a16911f 4ddc588
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 09:47:02 2022 +0000
+
+    Merged in HCF-53 (pull request #23)
+    
+    HCF-115   Als investeerder wil ik na het aanmaken van een investering een overeenkomst te zien krijgen.
+
+commit 4ddc58803614a903079de53d085439e80b593651
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 10:46:40 2022 +0100
+
+    HCF-115   Als investeerder wil ik na het aanmaken van een investering een overeenkomst te zien krijgen.
+
+commit 8ecbf7713b84f36f35c2cdc6b95ecc7d6987980f
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 8 10:40:36 2022 +0100
+
+    HCF-115   Als investeerder wil ik na het aanmaken van een investering een overeenkomst te zien krijgen.
+
+commit a16911f0702d20874267f5cd79725f43d514cf60
+Merge: 44a2c34 87369fb
+Author: Thijs Meijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 09:36:04 2022 +0000
+
+    Merged in newproject (pull request #22)
+    
+    Newproject
+    
+    Approved-by: Kasper Ligthart
+
+commit 87369fb014fc308b65b136a9524c726faf94db79
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 10:28:33 2022 +0100
+
+    HCF-112 Omschrijving parsedown wordt meegegeven in input veld.
+
+commit 22d387a4e38ed73e551aaad19bb33d77df0d6106
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 10:12:35 2022 +0100
+
+    HCF-109 Als ondernemer wil ik een businessplan kunnen uploaden.
+
+commit ba72ffcaf8fefcabe0953b75d9fe901db8d165ed
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 09:57:00 2022 +0100
+
+    HCF-xxx contribution values in config
+
+commit 4cc4d5b2251fcb9b91f129545b494cd02a628c30
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 09:56:24 2022 +0100
+
+    HCF-111 Als ondernemer wil ik na het aanmaken van mijn project doorgestuurd worden naar de weergavepagina van het project.
+
+commit 44a2c341f7e78a8f4db1670cac8fde1db07efe5d
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 01:09:43 2022 +0100
+
+    HCF-bugfix card on project page is now no longer small when a project description is small.
+
+commit 31cb744e7e7399564bc514863b1595ae1997ff81
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 01:08:39 2022 +0100
+
+    HCF-xxx ProjectController refactor + added attributes on project model
+
+commit 3f278c7a506802996554f1a38c589e07800e31c0
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 00:08:28 2022 +0100
+
+    HCF-xxx ProjectController validation cleanup, added amount columns to resource and views, added defaults to interest_rate and duration
+
+commit c66bc22e34699006f60a7a0edd83008a24580818
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Dec 8 00:04:00 2022 +0100
+
+    HCF-xxx ProjectController cleanup
+
+commit 3f6b5c8eaabd0fabd3546ba67a58990ebb65fba0
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 21:53:07 2022 +0100
+
+    HCF-xxx update added to UserRepository, ProfileController refactor, email validation fixed for unique emails
+
+commit 2a2f91fe1dc3b945e01a0d2013d1df46d38bd5d2
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 21:42:11 2022 +0100
+
+    HCF-xxx added repository pattern for investments, refactored InvestmentController, added attribute for max possible investment
+
+commit cc5464f01c28e15e1579ed68df312d7455a4a9bd
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 21:18:47 2022 +0100
+
+    HCF-xxx added repository pattern for projects, refactored HomeController
+
+commit 0e87bfb29c01884d8e2fac938aaa14d476c75258
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 21:02:42 2022 +0100
+
+    HCF-xxx remove dashboard
+
+commit 2cd4292df82f0bec65b643560f1e0767a8d7c434
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 20:57:20 2022 +0100
+
+    HCF-xxx auth controllers cleanup
+
+commit ccf4d79fa9d6f6ab285c879225b5566077af42df
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 20:56:19 2022 +0100
+
+    HCF-xxx Added repository pattern to User + register cleanup
+
+commit 945de0914d51d7dc1c4c9c01b5b36ee9fe6412bc
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 20:22:02 2022 +0100
+
+    HCF-xxx AuthenticatedSessionController && RouteServiceProvider cleanup
+
+commit 72d53fd8a9ad63669a260a9ab7ebfddd1ac76a89
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 20:01:12 2022 +0100
+
+    HCF-xxx add enums to EditProjectRequest
+
+commit 8b33b925e2ff9977a8efa92aca78c4696d6a288d
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 19:59:05 2022 +0100
+
+    HCF-xxx add enums to EditProjectRequest
+
+commit 147d565669fb0159547f2253eccfc15e84231e45
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 17:27:21 2022 +0100
+
+    HCF-xxx pint
+
+commit d687ceb62dbf244fc57c528238c974eee4a549b4
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 17:25:58 2022 +0100
+
+    HCF-119 Als investeerder wil ik de status van het project kunnen zien per investering. + styling bekijk knoppen
+
+commit f6486a50314e03d58dceb0c9913fc944a0289af2
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 16:27:27 2022 +0100
+
+    HCF-xxx seeder status check fix
+
+commit 96132a4005bf827527941e751f2013ad0cba2de7
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 16:22:06 2022 +0100
+
+    HCF-xxx duplicate import fix
+
+commit 96f47cac5ab900a608cb44cba8151e352637f484
+Merge: 73bedc5 e335488
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 15:21:03 2022 +0000
+
+    Merged in HCF-21 (pull request #21)
+    
+    HCF-114   Als investeerder wil ik een overzicht kunnen zien van eigen inbreng, hoscat inbreng en crowdfunding inbreng.
+    
+    Approved-by: Thijs Meijer
+
+commit 73bedc5a07e8124aff243e0621ea048b81e4bab7
+Merge: a25f999 f829ca4
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 16:09:42 2022 +0100
+
+    Merge branch 'HCF-35' into development
+    
+    # Conflicts:
+    #       app/Http/Controllers/ProjectsController.php
+    #       app/Http/Resources/UserProjectResource.php
+
+commit a25f999ced6a9c59326cae6b20734eb1d44593d0
+Merge: 0ff5833 6bcbbc2
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 15:05:45 2022 +0000
+
+    Merged in HCF-53 (pull request #19)
+    
+    HCF-120  Als investeerder wil ik mijn naam en email niet kunnen aanpassen bij een investering.
+    
+    Approved-by: Thijs Meijer
+
+commit f829ca4ce8974a65b4f2f7bf84474d0c72d30d69
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 16:04:54 2022 +0100
+
+    HCF-95  Als ondernemer wil ik de status van mijn project kunnen zien door middel van een label.
+
+commit 6bcbbc256e6c48264ea92405f52435f442a8fcdd
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 15:59:44 2022 +0100
+
+    HCF-120  Als investeerder wil ik mijn naam en email niet kunnen aanpassen bij een investering.
+
+commit e3354885ee196d48b0499223de9c1b9df469e6c1
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 15:45:53 2022 +0100
+
+    HCF-114   Als investeerder wil ik een overzicht kunnen zien van eigen inbreng, hoscat inbreng en crowdfunding inbreng.
+
+commit 87f66c24b90cacbfe720f7363611a66f3ac95db9
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 14:56:48 2022 +0100
+
+    HCF-110  Als ondernemer wil ik dat mijn eerste project bovenaan staat.
+
+commit 0ff5833167b5f8d3ec2925922a29be9d322306bd
+Merge: da4990b d9ac648
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 13:55:02 2022 +0000
+
+    Merged in navbar (pull request #18)
+    
+    Restyling of navbar, login, register
+
+commit d9ac648e8dd6801c8639344b2d39dbb1a48866b1
+Merge: b80933a 3b55ed9
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 14:54:30 2022 +0100
+
+    Merge branch 'navbar' of bitbucket.org:ifresh-repositories/horecacrowdfunding-2022 into navbar
+    
+    # Conflicts:
+    #       app/Http/Resources/ProjectShowResource.php
+
+commit b80933a1a255daea43aaae88c25838b6c6de29b4
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 14:47:33 2022 +0100
+
+    Restyling of navbar, login, register
+
+commit 3b55ed9631c32decb098ff79a8466b583c279ef8
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 14:47:33 2022 +0100
+
+    Restyling of navbar, login, register
+
+commit da4990bd191d3241e4cb78043bf8978a3a8f6c2a
+Merge: 04d734c 03aff6b
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 09:44:21 2022 +0000
+
+    Merged in HCF-29 (pull request #17)
+    
+    HCF-29
+    
+    Approved-by: Thijs Meijer
+
+commit 03aff6b023061565a6994d008bd2db98e87a5358
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 10:34:26 2022 +0100
+
+    HCF-104
+    
+    Als gast wil ik in de kaart van een project de voortgang van het project al kunnen zien.
+
+commit d6d89a3dc177dfda333643406a40af1bf309fe4a
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 10:34:13 2022 +0100
+
+    HCF-103   Als gast wil ik in de kaart van een project de voortgang van het project al kunnen zien.
+
+commit 04d734c68721cea4365dcb47d62091a8ade88e1d
+Merge: 69a7339 0fa27d0
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 09:19:16 2022 +0000
+
+    Merged in investments (pull request #16)
+    
+    Fix: only public projects get investments with seeding
+    
+    Approved-by: Thijs Meijer
+
+commit 0fa27d06ebeb9082d00623d8064f4f40201ae60a
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Dec 7 10:15:45 2022 +0100
+
+    Fix: only public projects get investments with seeding
+
+commit 69a73398e1128a15c1d3a2adf6a8f242d74da9e7
+Merge: fd140a1 f304772
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 09:56:11 2022 +0100
+
+    Merge branch 'main' into development
+
+commit fd140a1b6c507b93d2a92c83b1ac0d94c5ee6d02
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Dec 7 09:52:31 2022 +0100
+
+    HCF-87
+    
+    Als ondernemer wil ik een bevestiging wanneer mijn project succesvol is opgeslagen.
+
+commit f3047726d1d7c47d3ab07a79daabee5ab5a72bcd
+Merge: 117866e 9f1831e
+Author: Stephan Bouman <s.bouman@ifresh.nl>
+Date:   Tue Dec 6 10:46:45 2022 +0000
+
+    Merged in HCF-53 (pull request #15)
+    
+    HCF-53
+
+commit 117866e0e2c15ae1ceed6b710f992f730cd0e474
+Merge: a2f072c 1e2d63c
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Tue Dec 6 10:29:48 2022 +0000
+
+    Merged in HCF-97 (pull request #14)
+    
+    HCF-97
+    
+    Approved-by: Thijs Meijer
+
+commit 1e2d63cc6d48a6f5bdbe43a436af0466d726655c
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Mon Dec 5 16:18:00 2022 +0100
+
+    HCF-75 Als gast wil ik dat de pagina er goed uit ziet op alle schermen.
+
+commit d75de37df8a241ec42c10bf701934234242e0041
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Mon Dec 5 16:15:57 2022 +0100
+
+    HCF-75 Als gast wil ik dat de pagina er goed uit ziet op alle schermen.
+
+commit 6e12597e85ea85ef85a865c79cb5f02d22c82880
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Mon Dec 5 16:12:40 2022 +0100
+
+    HCF-77 Als gast wil ik alleen publieke projecten kunnen zien.
+
+commit 1389177f8247805fded1bb0b557dbaf7c5558bb5
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Mon Dec 5 16:05:40 2022 +0100
+
+    HCF-73 Als gast wil ik de 4 meest recent aangemaakte projecten bovenin zien. && HCF-74 Als gast wil ik de overige projecten gesorteerd hebben op funding.
+
+commit 698b24b6a33ed221f63ab988246d87b29856454e
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Mon Dec 5 15:43:54 2022 +0100
+
+    HCF-72 Als gast wil ik 12 projecten kunnen zien.
+
+commit a2f072c37609cac6c4d08ace466976ae6c4e9904
+Merge: 8046c75 bab2fed
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Mon Dec 5 14:35:59 2022 +0000
+
+    Merged in HCF-29 (pull request #13)
+    
+    HCF-29
+
+commit bab2fed847ac23ea7e798347de73b8944175f484
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Mon Dec 5 15:11:29 2022 +0100
+
+    HCF-78 Als gast wil ik een zoekfunctie op de overzicht pagina om door projecten heen te zoeken.
+
+commit e24ac3195a88dc40d440a27bd7aef1226700b0e9
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Mon Dec 5 15:08:58 2022 +0100
+
+    HCF-98 Als gast wil ik dat de pagina er goed uit ziet op alle schermen.
+
+commit 2fd0356add3ac48edd764e1533e04cbeede9680f
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Mon Dec 5 13:52:09 2022 +0100
+
+    HCF-98 Als gast wil ik dat de pagina er goed uit ziet op alle schermen.
+
+commit f0352866e31b81e8885177d164c26c746fb9d2e9
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Mon Dec 5 11:36:30 2022 +0100
+
+    HCF-100 Als gast wil ik kunnen sorteren op datum of op funding.
+
+commit 8d2eeddf236e2239b70ea60b745c806475707199
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 2 14:59:58 2022 +0100
+
+    HCF-78   Als gast wil ik een zoekfunctie op de overzicht pagina om door projecten heen te zoeken.
+
+commit 9f1831eb3089ab83f19e42bca21c02f0df475048
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 2 14:34:31 2022 +0100
+
+    HCF-85   Als investeerder wil ik op grotere schermen een paneel naast het investeer paneel waar informatie over het project in staat.
+
+commit 0e9ad67904218ecd5b65d6dfecd219ae1c98b747
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 2 14:31:17 2022 +0100
+
+    HCF-85   Als investeerder wil ik op grotere schermen een paneel naast het investeer paneel waar informatie over het project in staat.
+
+commit 73f187b57475381651336d5ee2f27a22166f305d
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 2 11:54:03 2022 +0100
+
+    HCF-90   Als investeerder wil ik per investering een aparte IBAN kunnen gebruiken.
+
+commit 6281fe5ba326bc555490ae39961869b72f5d35ab
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 2 11:42:41 2022 +0100
+
+    HCF-86  Als investeerder wil ik een bevestiging wanneer mijn investering is gelukt.
+
+commit 5238573a675161239affd955bc61b2720b253d58
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 2 11:25:31 2022 +0100
+
+    fix merge conflicts
+
+commit 8046c75083a739985d7d1f73bd82cfab1ae75eb3
+Merge: d8aed02 3ec37c7
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 2 10:18:50 2022 +0000
+
+    Merged in HCF-21 (pull request #12)
+    
+    HCF-21
+
+commit 3ec37c7a5325eb9554626fcf5c0093fdc9c83ad5
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 2 10:43:27 2022 +0100
+
+    HCF-76  Als gast wil ik alleen publieke projecten kunnen bekijken.
+
+commit a7adece0a266f2f33cacba799842a7edc3aa93e3
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 2 10:35:24 2022 +0100
+
+    HCF-84  Als gast wil ik teruggestuurd worden naar de exacte pagina waar ik vandaan kwam als ik terug klik uit een project.
+
+commit 548155b00df92a89fb7de790ee75ba0dbdc0fe5e
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 2 09:49:28 2022 +0100
+
+    HCF-82   Als gast wil ik dat de hero afbeelding van een project mooi gescaled wordt.
+
+commit 0ee9eb1d5a264ba7ae5fc0cdbaa70c4d31a8d9b0
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Dec 2 09:24:02 2022 +0100
+
+    HCF-102   Als ondernemer wil ik een knop die me doorstuurt naar de pagina om mijn project aan te passen.
+
+commit 4b5214e3b77f828a291ef60a84fcc1a94ddc49d6
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 1 17:03:58 2022 +0100
+
+    HCF-102   Als ondernemer wil ik een knop die me doorstuurt naar de pagina om mijn project aan te passen.
+
+commit 03dd581ef703b7876ed391c96756b58600a66c9e
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 1 16:55:55 2022 +0100
+
+    HCF-80   Als gast wil ik dat de progressie balk iets dunner is.
+
+commit b6a477a7c48d16c310abe23b42cb67c40b46d775
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 1 16:53:22 2022 +0100
+
+    HCF-81  Als gast wil ik dat als er geen investeringen zijn het investeringen paneel een aanmoedigende text laat zien om te investeren.
+
+commit 1ac422f575d235689a0469cb452096258797ed92
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 1 16:30:49 2022 +0100
+
+    HCF-83   Als ondernemer wil ik mijn project kunnen zien als deze nog prive is.
+
+commit 06d5165cade79fb7c7ac8aa588d64a0d437049cc
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Dec 1 15:46:44 2022 +0100
+
+    HCF-76 Als gast wil ik alleen publieke projecten kunnen bekijken.
+
+commit d8aed02ee665fac66cb3e0905831f90a1e0aa90d
+Merge: 0172bc2 5f410b2
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Nov 17 08:38:09 2022 +0000
+
+    Merged in development (pull request #10)
+    
+    Development
+
+commit 5f410b20b18b35f396fda99d8d3ea341bd6f6cdc
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Nov 17 09:37:12 2022 +0100
+
+    added percentage signs to projects index and show pahe
+
+commit 59bbfbe6bc59130346d8721c7b654c268d02a0a8
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Nov 17 09:32:45 2022 +0100
+
+    remember token for users tab;e
+
+commit bfde3a71723c5707f6b8cf86bc46b41564a4a602
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Nov 16 17:09:57 2022 +0100
+
+    refactor
+
+commit b4a73d1b95957b948f086cdd55503608f4ca79d4
+Merge: 9745550 b5a9ca1
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Nov 16 16:26:19 2022 +0100
+
+    Merge branch 'validation' into development
+    
+    # Conflicts:
+    #       app/Http/Controllers/ProjectsController.php
+
+commit 97455501f76e19e4028c445b7163f822e8c0f153
+Merge: 4033bac ee6125e
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Nov 16 16:22:15 2022 +0100
+
+    Merge branch 'development' of https://bitbucket.org/ifresh-repositories/horecacrowdfunding-2022 into development
+    
+    # Conflicts:
+    #       resources/js/Pages/Profile/Projects/Index.vue
+
+commit 4033bac72dcb796901f33d3f1efa89b3373c2235
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Nov 16 16:19:53 2022 +0100
+
+    total amount -> amount
+
+commit b5a9ca1e9905b00704c60ca04f860bfac495c9b5
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Nov 16 16:14:50 2022 +0100
+
+    added validation for all forms
+
+commit 7d1204ef68a695c1504578682008c378d9197611
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Nov 16 16:00:40 2022 +0100
+
+    new project + validatie
+
+commit ee6125e8a6da65ab7439ae477452a2081344a59a
+Merge: 26fca7c 81598a9
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Nov 16 14:29:20 2022 +0000
+
+    Merged in HCF-53 (pull request #7)
+    
+    HCF-53
+    
+    Approved-by: Thijs Meijer
+
+commit 81598a925f695483f513e041a8f30f012cd69ac7
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Nov 16 14:28:41 2022 +0000
+
+    Minimum investment amount upped to 100
+
+commit a9bac9c4e4a8b1a59b42fbf714d5c994a9c45476
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Nov 16 15:23:14 2022 +0100
+
+    HCF-58 Als investeerder wil ik een knop om mijn investering waar te maken.
+
+commit a6367e2137a2dbf06c0daba3f42695e8560216aa
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Nov 16 14:28:54 2022 +0100
+
+    fix merge conflicts
+
+commit 9b76c76112eb3b47333c9923677adba09c115d09
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Nov 16 14:26:18 2022 +0100
+
+    fix merge conflicts
+
+commit 26fca7c4ce805d8f6c2445161abe70ee02cc315e
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Nov 16 14:16:23 2022 +0100
+
+    HFC-xxx refactors
+
+commit 0ba21d00a75d16477b92361b62ab6c84711a7a9a
+Merge: f77639f fbd2368
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Nov 16 13:49:10 2022 +0100
+
+    Merge branch 'myprojects' into development
+    
+    # Conflicts:
+    #       app/Http/Controllers/ProjectsController.php
+    #       app/Http/Resources/ProjectIndexResource.php
+    #       routes/web.php
+
+commit fbd2368db56c3e5410bb0b80fa87ead152cce349
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Wed Nov 16 13:42:45 2022 +0100
+
+    HCF-38
+    
+    Als ondernemer wil ik door kunnen klikken op een project om deze te bekijken en aan te passen.
+
+commit f77639f8e6f668c33bb762baef233eb5b3d725a2
+Merge: 1899c4a 866bbd6
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Nov 16 11:10:56 2022 +0000
+
+    Merged in HCF-21 (pull request #5)
+    
+    HCF-21
+    
+    Approved-by: Thijs Meijer
+
+commit 866bbd6f1292bc49f4ba38edb144686825c2efef
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Wed Nov 16 11:54:21 2022 +0100
+
+    HCF-4 Als gast wil ik de details van een project kunnen zien.
+
+commit f23622cb1ae1b3aa5bab1ad0d1ed29bcc9b30141
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 17:24:52 2022 +0100
+
+    HCF-37  Als ondernemer wil ik een overzicht zien van mijn projecten.
+
+commit 27a238e47f5437fa11524fba38a88371cd3e8902
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Nov 11 16:13:09 2022 +0100
+
+    HCF-4
+    
+    Als gast wil ik de details van een project kunnen zien.
+
+commit 1899c4af0d5f47e615340d43276cc04e3155136a
+Merge: f3f446a 0fa3c58
+Author: Thijs Meijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 14:21:42 2022 +0000
+
+    Merged in investments-page (pull request #4)
+    
+    HCF-42  Als investeerder wil ik een overzicht kunnen zien van mijn investeringen.
+    
+    Approved-by: Kasper Ligthart
+
+commit 0fa3c58bb3f78faa24c4da3840e8744017300b2d
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 15:21:16 2022 +0100
+
+    HCF-42  Als investeerder wil ik een overzicht kunnen zien van mijn investeringen.
+
+commit f3f446ae8a505ab09d09d32de4cfd5d2f89af213
+Merge: e92ec84 2785952
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 15:18:42 2022 +0100
+
+    Merge remote-tracking branch 'origin/HCF-29' into development
+    
+    # Conflicts:
+    #       app/Http/Controllers/ProfileController.php
+    #       routes/web.php
+
+commit 7efc292f7e70507e0eba4bd94287a297bba1d08e
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 15:14:25 2022 +0100
+
+    HCF-42  Als investeerder wil ik een overzicht kunnen zien van mijn investeringen.
+
+commit 2785952aca4d52f7b7d5aa6182e416d9db2b9dfb
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Nov 11 15:13:25 2022 +0100
+
+    HCF-34 Als gast wil ik dat de projecten verdeeld zijn over meerdere paginas.
+
+commit 2e94991e4319e0ffc367e3e616100312c1527f06
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Nov 11 13:51:10 2022 +0100
+
+    HCF-31 Als gast wil ik een overzicht kunnen zien van alle projecten.
+
+commit e4ebc4bdf98aa7cf79ce4f17e495712443787400
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Nov 11 13:13:48 2022 +0100
+
+    HCF-31 Als gast wil ik een overzicht kunnen zien van alle projecten.
+
+commit 0f3da7292f3174ac5f7371500576fbb82eba0709
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Fri Nov 11 13:13:31 2022 +0100
+
+    HCF-31 Als gast wil ik een overzicht kunnen zien van alle projecten.
+
+commit e92ec84aac6eaf46be431607329394f1d89d59ce
+Merge: 4233bea 9ad6d4c
+Author: Thijs Meijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 12:10:27 2022 +0000
+
+    Merged in HCF-45 (pull request #1)
+    
+    HCF-45
+    
+    Approved-by: Kasper Ligthart
+
+commit 9ad6d4c932bdc197cdbde531892ed17f4cf1c0da
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 13:02:00 2022 +0100
+
+    HCF-46  Als gebruiker wil ik mijn e-mail adress aan kunnen passen.
+
+commit 5ce9f2277a7f2ef3560d84446b2e7aca053f0532
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 11:21:54 2022 +0100
+
+    PINT
+
+commit f60a25d11e12f37074ebdbdb312c58363c57fcb5
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 11:21:39 2022 +0100
+
+    HCF-45  Als gebruiker wil ik mijn gegevens kunnen inzien.
+
+commit 4233beabac1e951d91b82c188abd953e1eb458e2
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 10:36:30 2022 +0100
+
+    HCF-45  Als gebruiker wil ik mijn gegevens kunnen inzien.
+
+commit c8811af6b94f056ea75e32dae8e4780683ae2e34
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 09:43:01 2022 +0100
+
+    HCF-5 seeders + factories
+
+commit 997fba861e07050d5d37835f433cabda17d8c717
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Fri Nov 11 09:17:37 2022 +0100
+
+    HCF-5 Als ontwikkelaar wil ik een omgeving hebben om in te werken. database changes
+
+commit 362152e4322e14189701499397525c80116f9ab5
+Author: thijsmeijer <t.meijer@ifresh.nl>
+Date:   Thu Nov 10 16:56:16 2022 +0100
+
+    HCF-5 Als ontwikkelaar wil ik een omgeving hebben om in te werken.
+
+commit 0172bc2879b228b66e62a6abd916db7c3e2913cb
+Author: Kasper Ligthart <k.ligthart@ifresh.nl>
+Date:   Thu Nov 10 15:22:14 2022 +0100
+
+    HCF-5 initial commit

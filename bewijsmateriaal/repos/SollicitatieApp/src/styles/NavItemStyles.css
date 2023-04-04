@@ -1,0 +1,57 @@
+.pseudo-text-effect2 {
+  position: relative;
+  padding: 0;
+  overflow: hidden;
+  transition: transform 0.2s;
+  display: block;
+  margin-top: 22px;
+  color: white;
+}
+.pseudo-text-effect2::after {
+  content: attr(data-after);
+  display: inline-block;
+  transform: translateY(100%);
+  position: absolute;
+  left: 0;
+  transition: inherit;
+}
+.pseudo-text-effect2 > #NavItemHeader {
+  display: inline-block;
+  transform: translateY(0%);
+  transition: inherit;
+}
+.pseudo-text-effect2:hover > #NavItemHeader {
+  transform: translateY(-100%);
+}
+.pseudo-text-effect2:hover::after {
+  transform: translateY(0%);
+}
+
+#menuEffect2 {
+  font-size: 42px;
+  line-height: 40px;
+  font-family: "Poppins";
+  font-weight: 500;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+#menuButtonHeader2 {
+  color: white;
+  font-family: "Poppins";
+}
+@media only screen and (min-width: 768px) {
+  #menuEffect2 {
+    font-size: 72px;
+    line-height: 100px;
+    font-family: "Poppins";
+    font-weight: 500;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    outline: none;
+  }
+}

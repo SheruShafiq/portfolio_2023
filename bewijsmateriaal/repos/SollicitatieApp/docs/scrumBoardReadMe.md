@@ -1,0 +1,2 @@
+- In order to gain access to the scrum board, please submit your email to recieve an invite.
+- GitHub repo can be found at: https://github.com/SheruShafiq/Bit-Exam-Main

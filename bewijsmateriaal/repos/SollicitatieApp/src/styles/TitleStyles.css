@@ -1,0 +1,33 @@
+h1 {
+  letter-spacing: 2px;
+  font-size: 48px;
+  line-height: 72px;
+  font-weight: 500;
+}
+.title {
+  font-family: "Poppins";
+  font-weight: 500;
+}
+#titleSubText {
+  font-size: 14px;
+  line-height: 30px;
+  margin-top: 50px;
+  margin-bottom: -30px;
+  margin-left: 6px;
+}
+
+@media only screen and (min-width: 768px) {
+  h1 {
+    font-size: 100px;
+    letter-spacing: 2px;
+    line-height: 120px;
+    font-weight: 500;
+  }
+  #titleSubText {
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 50px;
+    margin-bottom: -50px;
+    margin-left: 6px;
+  }
+}

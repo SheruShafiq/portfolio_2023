@@ -1,0 +1,98 @@
+.form {
+  border-radius: 20px;
+  background-color: thistle;
+  width: 310px;
+  height: 358px;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+input {
+  font-size: 25px;
+  padding: 5px;
+  width: 100%;
+}
+
+.Appheader {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 30px;
+  align-items: center;
+}
+
+#submit {
+  font-size: large;
+  border-radius: 100%;
+  border-color: gray;
+  width: 8%;
+  margin-top: 150px;
+  height: 39%;
+  border-width: 3px;
+  border-style: groove;
+  color: white;
+  background-color: rgba(0, 0, 0, 0);
+  position: absolute;
+  top: -660px;
+  left: -90px;
+}
+
+.inputFields {
+  text-align: center;
+  width: 90%;
+  margin-top: 10px;
+  border-radius: 20px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0);
+  border-width: 5px;
+  border-style: groove;
+}
+
+::placeholder {
+  text-align: center;
+}
+
+#results {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 15px;
+}
+
+#total {
+  font-size: 80px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 20px;
+  overflow-x: hidden;
+}
+
+@media (min-width: 1200px) {
+  .weather-side {
+    left: 0px;
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  .form {
+
+    margin: 20px;
+  }
+
+  .Appheader {
+    padding: 10px;
+  }
+}
+
+#loading {
+  scale: 50%;
+  margin-top: -25px;
+}

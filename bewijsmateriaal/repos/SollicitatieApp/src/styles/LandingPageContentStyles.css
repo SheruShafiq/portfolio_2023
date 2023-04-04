@@ -1,0 +1,18 @@
+#textBase {
+font-family: 'Poppins';
+font-weight: 300;
+line-height: 30px;
+font-size: 20px;
+}
+#secondaryTitle{
+font-family: 'Poppins';
+line-height: 28px;
+font-size: 20px;
+font-weight: 600;
+}
+li{
+    font-family: 'Poppins';
+    font-weight: 100;
+    line-height: 28px;
+    font-size: 20px;
+}
