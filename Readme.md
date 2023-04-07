@@ -240,7 +240,7 @@ Thanks to robust planning and impeccable respect for schedule from the entire te
 - [Docs](./bewijsmateriaal/demos/solicitatieApp/demo/)
 - [Presentation](./bewijsmateriaal/demos/solicitatieApp/demo/HI%20Feature%20expansion.pptx)
 
-> ### [VR App](./bewijsmateriaal/repos/SollicitatieApp/)
+> ### [VR App !WOON](https://drive.google.com/drive/folders/164QfFWPwf1oc0QH83KEfMe-JrwoR2_IY?usp=share_link)
 
  <div style="padding-left:20px;">
 
