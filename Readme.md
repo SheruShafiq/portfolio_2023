@@ -124,7 +124,11 @@ Right after our [Kickoff meeting](./bewijsmateriaal/meetingProves/DashboardApp/K
 
  <div style="padding-left:20px;">
 
-As soon as my [proposal](<(./bewijsmateriaal/pre-planning/sollicitatieApp/headline_proposal.md)>) was submitted to the client, I, together with all [involved team members](#het-team), started planning and created a 3 sprint long, [day by day plan](./bewijsmateriaal/pre-planning/sollicitatieApp/daily_plan.md) that covered everything from [kickoff](./bewijsmateriaal/meetingProves/SolicitatieApp/KickoffMeeting/) to [demo](./bewijsmateriaal/meetingProves/SolicitatieApp/demo/) and ensured all the standard scrum practices were executed. As this project was also an essential learning experience for me to broaden my know-how of working in a team.
+As soon as my proposal was submitted to the client, I, together with all [involved team members](#het-team), started planning and created a 3 sprint long, [day by day plan](./bewijsmateriaal/pre-planning/sollicitatieApp/daily_plan.md) that covered everything from [kickoff](./bewijsmateriaal/meetingProves/SolicitatieApp/KickoffMeeting/) to [demo](./bewijsmateriaal/meetingProves/SolicitatieApp/demo/) and ensured all the standard scrum practices were executed. As this project was also an essential learning experience for me to broaden my know-how of working in a team.
+
+- [UML Diagrams](./bewijsmateriaal/pre-planning/sollicitatieApp/UML/)
+- [Prototype](./bewijsmateriaal/pre-planning/sollicitatieApp/Prototyping/)
+- [Day by Day Plan](./bewijsmateriaal/pre-planning/sollicitatieApp/daily_plan.md)
 
 </div>
 
@@ -142,11 +146,11 @@ Right after our [briefing meeting](./bewijsmateriaal/meetingProves/VrApp/dfg23.P
 
 It isn't exactly anything significant at this moment, but I have been spending a lot of time outside of work times learning ReactTHREE.fiber and WebGL as working with 3D on the web fascinates me and I have been pre-planning a personal project, at the moment, it's just a UML diagram and minor planning at the moment, but I do think it's worth a mention if we are mentioning in planning.
 
-## </div>
-
 - [UML Diagram](./bewijsmateriaal/pre-planning/PersonalProject/Portfolio%20App%20Sequence%20UML%20Diagram.pdf)
 - [KickOffMeeting](./bewijsmateriaal/pre-planning/PersonalProject/1_1.md)
 - [GitHub](https://github.com/SheruShafiq/Sheru-s-PV-Portfolio)
+
+</div>
 
 > ### [StopTober App](./bewijsmateriaal/repos/Stoptober/stoptober/)
 
@@ -170,7 +174,7 @@ I pride myself on how heavily I documented this project, a day-by-day log, workf
 
 - [Daily Log](./bewijsmateriaal/logs/SollicitatieApp/daily_log.md)
 - [Sprint Plans](./bewijsmateriaal/pre-planning/sollicitatieApp/daily_plan.md)
-- [Jira Exports](./bewijsmateriaal/backlog/SolicitatieApp/JiraExports/28_03_2023/JiraWord.doc)
+- [Jira Exports](./bewijsmateriaal/backlog/SolicitatieApp/JiraExports/28_03_2023/Jira.csv)
 - [Test Plans](./bewijsmateriaal/testing/solicitatieApp/TestsDocumentation/)
 - [Commit History](./bewijsmateriaal/repos/SollicitatieApp/git-history.txt)
 
