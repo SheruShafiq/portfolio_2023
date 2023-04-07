@@ -1,36 +1,37 @@
-## **Introduction**
+## **Inleiding**
 
 > ### [VR App](https://drive.google.com/drive/folders/164QfFWPwf1oc0QH83KEfMe-JrwoR2_IY?usp=share_link)
 
  <div style="padding-left:20px;">
 
-The project was introducted to us by our coach ([Bob van den Berge](https://www.linkedin.com/in/bob-van-den-berge-3a57192b)). Together in collaboration with [Wintor](https://www.wintor.com/) we were able to create a VR app for our client, [Stichting Woon](https://www.wooninfo.nl/). The app was created in Untiy with in 10 sprints. It's available in 2 different languages and is[still used](https://drive.google.com/file/d/1-5Wo5FuJ6fikp_xKmyt3bI08N4RATX5E/view?usp=share_link) by the client to educate people on economincal awareness.</div>
+Het project werd aan ons geïntroduceerd door onze coach ([Bob van den Berge](https://www.linkedin.com/in/bob-van-den-berge-3a57192b)). In samenwerking met [Wintor](https://www.wintor.com/) hebben we een VR-app kunnen maken voor onze klant, [Stichting Woon](https://www.wooninfo.nl/). De app is gemaakt in Unity en in 10 sprints ontwikkeld. Het is beschikbaar in 2 verschillende talen en wordt [nog steeds gebruikt](https://drive.google.com/file/d/1-5Wo5FuJ6fikp_xKmyt3bI08N4RATX5E/view?usp=share_link) door de klant om mensen bewust te maken van economische zaken.</div>
 
 - [Demo](./bewijsmateriaal/demos/VRapp/)
-- [Playthrough](https://www.youtube.com/watch?v=ysRaR0iKVWA&feature=youtu.be)
+- [Gameplay](https://www.youtube.com/watch?v=ysRaR0iKVWA&feature=youtu.be)
 - [Release Trailer](https://www.youtube.com/watch?v=kcD5QhzojCY)
-- [Repo](https://drive.google.com/drive/folders/164QfFWPwf1oc0QH83KEfMe-JrwoR2_IY?usp=share_link)
-- [Executable APK](https://bitlab.bit-academy.nl/-/ide/project/221b9169-0a37-11ec-a943-4213e7ee7fac/13d2decc-0a38-11ec-a943-4213e7ee7fac/Eindproject-Jaar-866b130f-a3ee6b0f/edit/main/-/DEMO_WEDNESDAY_22_06_2022_W_Rain_and_new_ed_and_score_system.apk)
+- [Repository](https://drive.google.com/drive/folders/164QfFWPwf1oc0QH83KEfMe-JrwoR2_IY?usp=share_link)
+- [Uitvoerbaar APK-bestand](https://bitlab.bit-academy.nl/-/ide/project/221b9169-0a37-11ec-a943-4213e7ee7fac/13d2decc-0a38-11ec-a943-4213e7ee7fac/Eindproject-Jaar-866b130f-a3ee6b0f/edit/main/-/DEMO_WEDNESDAY_22_06_2022_W_Rain_and_new_ed_and_score_system.apk)
+
+## **Introductie**
 
 > ### [Dashboard App](<./bewijsmateriaal/repos/DashBoardApp (In-House)/HLI-Dashboard-master>)
 
 <div style="padding-left:20px;">
 
-The dashboard app was my first project at Headline Interactive during my Internship. The idea was to build a [live dashboard](https://headline-interactive-dashboard-pv.netlify.app/) that displayed live analytics of all the comapany's project and turned the system off and on scheduled timings. The app was made in React(My first React app) with in 2 sprints and also recieved a [maintainence patch](https://github.com/SheruShafiq/HLI-Dashboard/commit/8a19c06f0fad8f747535d418f3b3e698335aa645).
-There are two versions of this app, a custom built one with all the necassary keys and data pre loaded for In-House usage, and a public version that anyone can customize and use.
+De dashboard-app was mijn eerste project bij Headline Interactive tijdens mijn stage. Het idee was om een [live dashboard](https://headline-interactive-dashboard-pv.netlify.app/) te bouwen dat live-analyses van alle projecten van het bedrijf weergaf en het systeem op geplande tijden in- en uitschakelde. De app is gemaakt in React (mijn eerste React-app) in 2 sprints en heeft ook een [onderhoudspatch](https://github.com/SheruShafiq/HLI-Dashboard/commit/8a19c06f0fad8f747535d418f3b3e698335aa645) ontvangen. Er zijn twee versies van deze app, een op maat gemaakte versie met alle benodigde sleutels en data voor intern gebruik, en een openbare versie die iedereen kan aanpassen en gebruiken.
 
 </div>
 
-- [Demo Public Version](https://headline-interactive-dboard.netlify.app/)
-- [Repo Public](https://github.com/SheruShafiq/Google-Analytics-DashBoard-App)
-- [Demo In House Version](https://headline-interactive-dashboard-pv.netlify.app/)
-- [Repo In House](<./bewijsmateriaal/repos/DashBoardApp%20(In-House)/>)
+- [Demo Openbare versie](https://headline-interactive-dboard.netlify.app/)
+- [Repo Openbare versie](https://github.com/SheruShafiq/Google-Analytics-DashBoard-App)
+- [Demo In-house versie](https://headline-interactive-dashboard-pv.netlify.app/)
+- [Repo In-house versie](<./bewijsmateriaal/repos/DashBoardApp%20(In-House)/>)
 
-> ### [Job Application App](./bewijsmateriaal/repos/SollicitatieApp/)
+> ### [Sollicitatie-applicatie](./bewijsmateriaal/repos/SollicitatieApp/)
 
 <div style="padding-left:20px;">
 
-The project was more of a feature expansion, [suggested by myself](./bewijsmateriaal/pre-planning/sollicitatieApp/headline_proposal.md) to my boss. As during my process of looking and applying for a placement, I felt a severe lack of information on the [company's job application section](https://headline-interactive.nl/vacature-backend-developer/). My boss loved the idea, and the project was concluded with in 3 sprints.</div>
+Het project was meer een uitbreiding van functies, [voorgesteld door mijzelf](./bewijsmateriaal/pre-planning/sollicitatieApp/headline_proposal.md) aan mijn baas. Tijdens mijn zoektocht naar een stageplaats miste ik veel informatie op de [sollicitatiepagina van het bedrijf](https://headline-interactive.nl/vacature-backend-developer/). Mijn baas was enthousiast over het idee en het project werd afgerond in 3 sprints.</div>
 
 - [Demo](https://tourmaline-llama-c716a3.netlify.app/)
 - [Repo](./bewijsmateriaal/repos/SollicitatieApp/)
