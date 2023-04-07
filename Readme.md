@@ -1,8 +1,8 @@
-# **Examenportfolio**
+# **Portfolio**
 
 ### By Sheru Shafiq,
 
-### Artmeis 7 (2021-2023)
+### 2021-2023
 
 ---
 
